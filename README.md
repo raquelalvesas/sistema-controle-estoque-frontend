@@ -1,1 +1,1 @@
-# sistema-gerenciador-estoque-frontend
+# sistema-controle-estoque-frontend
